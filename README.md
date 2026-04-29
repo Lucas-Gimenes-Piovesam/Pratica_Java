@@ -1,2 +1,2 @@
-# Pratica_Java
+# Praticas
 Hub de projetos aprendizes
